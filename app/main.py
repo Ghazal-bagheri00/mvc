@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.Views import user_view, job_view, city_view
+from Views import user_view, job_view, city_view
 
 
 
